@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Project Overview
 This project involves a comprehensive analysis of the historical Olympics dataset (1896–2016) using **PostgreSQL**. The goal was to transform raw, messy CSV data into actionable insights regarding athlete performance, country-wise medal trends, and seasonal participation.
 
